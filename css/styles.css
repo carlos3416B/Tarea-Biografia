@@ -1,0 +1,123 @@
+#parah1{
+
+    text-align: justify;
+    color: rgb(98, 245, 53);
+    font-size: 200%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  #p2{
+    text-align: left;
+    color: blue;
+    font: size 21px;
+    ;
+  }
+  body{
+background-color:beige ;
+  
+  }
+   #p3{
+    font-size: x-large;
+}
+
+
+.miestilo{
+background-color: aqua;
+font-size: large;
+color: azure;
+padding: 10px 10px 10px  10px;
+}
+
+.menu li{
+list-style: none;
+color: #000;
+display: inline;
+background:#FFF;
+margin :0 20px;
+border-radius: 5px;
+padding: 5px 5px 5px 5px;
+}
+#encabezado{
+  color: #fff;
+  border-radius: 10px;
+  width: 80%;
+  margin: 10px 10px;
+  padding: 10px 10px 10px 10px;
+
+  background-image: url(https://www.xtrafondos.com/wallpapers/colores-de-la-naturaleza-331.jpg);
+}
+#piepagina{
+  color: rgb(5, 5, 5);
+  text-align: center;
+  border-radius: 10px;
+  width: 99%;
+  margin: 10% 10% 10px 10px;
+  height: 80%;
+  background-color: rgb(229, 176, 242);
+  clear: both;
+}
+#seccion1{
+  border-radius: 10px;
+  float: right;
+  width: 34%;
+  height: 800px;
+  margin: 5 5 5 5px;
+  background-color: rgb(44, 44, 211);
+  padding: 10px 10px 10px 10px;
+  font-size: 1.7;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+#seccion2{
+float: right;
+width: 50%;
+height: 50%;
+margin: 0 9px 0 0;
+background-color:red;
+padding: 10px 10px 10px 10px;
+}
+.parrafoschidos{
+  font-size: 30px;
+  
+  font-family: fantasy;
+}
+.parrafoschidos1{
+  font-size: 30px;
+  
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.centrar{
+
+    border-radius: 10px;
+    float: right;
+    cursor: auto;
+    background-position:right;
+    text-align: center;
+    background-position: center;
+    width: 30%;
+    height: 800px;
+    margin: 5 5 5 5px;
+    background-color: rgb(194, 80, 243);
+    padding: 100px 10px 10px 10px;
+    font-size: 1.7;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+  }
+#s2{
+  border-radius: 10px;
+  float: right;
+  width: 44%;
+  height: 30%;
+  margin: 5 5 5 5px;
+  background-color: rgb(44, 44, 211);
+  padding: 10px 10px 10px 10px;
+  font-size: 1.7;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+.son{
+  background-color: yellow;
+
+}
+
